@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ! My name is Aprameya Jamadagni 👋
 - 🔭 I’m currently learning : Advanced Java Concepts.
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad. ( using Java ).
 - 👯 I’m looking to collaborate with my fellow peers on Side Projects.
