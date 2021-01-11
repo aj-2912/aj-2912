@@ -27,16 +27,16 @@
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad. (using Java)
 - 👯 I’m looking to collaborate with my fellow peers on Side Projects.
 - 🤔 I’m looking for help with VelocityX documentation.
-- 📫 How to reach me: [Gmail](aprameya.jamadagni@gmail.com) , [Mobile Number](+91-9901385820)
+- 📫 How to reach me: aprameya.jamadagni@gmail.com , Mobile : +91-9901385820
 - 😄 Hobbies: Avid Musician, Food Enthusiast & Curious Learner.
 - ⚡ Fun fact: I spend 10 hours a day listening to music while studying 😛
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
